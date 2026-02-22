@@ -1,4 +1,4 @@
 ## neonxsl
 sydney, australia
 
-sapphire: https://sapphire-edu.github.io/
+sapphire: https://sapphire.neonxsl.dev/
