@@ -1,4 +1,4 @@
 ## neonxsl
 sydney, australia
 
-sapphire: https://sapphire.neonxsl.dev/
+https://neonxsl.dev/
